@@ -13,6 +13,9 @@ Welcome to my portfolio! This repository showcases some of my projects and achie
 
 - **Project 2**: [Brief description or purpose]
   - [https://dhruv10-r.github.io/Analogclock]
+ 
+- **Project 3**: [ScholarNexus App - Source_Code]
+  - [https://github.com/DHRUV10-R/myproject]   
 
 ## About Me
 
