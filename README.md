@@ -22,5 +22,6 @@ Brief introduction about yourself, your interests, and your career goals.
 
 - Email: [dhruv.prakash.rathod@gmail.com]
 - LinkedIn: [https://in.linkedin.com/in/DHRUV10-R?trk=profile-badge]
+- Portfolio:[https://dhruv10-r.github.io/myportfolio]
 
 Feel free to get in touch!
